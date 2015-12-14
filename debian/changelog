@@ -1,0 +1,5 @@
+rs3 (0.3.1-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Stuart Teasdale <stuart.teasdale@genomicsplc.com>  Mon, 14 Dec 2015 16:22:54 +0000

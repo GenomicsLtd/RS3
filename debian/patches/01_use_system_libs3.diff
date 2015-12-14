@@ -1,0 +1,13 @@
+Index: RS3/src/Makevars
+===================================================================
+--- RS3.orig/src/Makevars	2015-12-14 16:52:52.441797329 +0000
++++ RS3/src/Makevars	2015-12-14 16:58:12.591654002 +0000
+@@ -4,7 +4,7 @@
+ .PHONY: all
+ all: $(SHLIB)
+ 
+-$(SHLIB): libs3.so
++$(SHLIB):
+ 
+ export CC
+ export R_ARCH
